@@ -1,4 +1,4 @@
-# Controversial-Nike-Kolin-Kaepernick-Sentiment-Analysis
+# Nike-Kolin-Kaepernick-Sentiment-Analysis
 
 Nike & Colin Kaepernick Sentiment Analysis:
 
